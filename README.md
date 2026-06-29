@@ -125,9 +125,7 @@ Click **Login with Google** to authenticate.
 7. User is successfully authenticated
 
 ---
-
-## 📸 Screenshots
-
+![Home Page](home.png)
 
 ---
 
@@ -142,9 +140,3 @@ This project demonstrates:
 - OAuth2 Login Integration
 - User Authentication using Google
 
-
-
-
-## ⭐ Support
-
-If you found this project helpful, consider giving it a ⭐ on GitHub!
